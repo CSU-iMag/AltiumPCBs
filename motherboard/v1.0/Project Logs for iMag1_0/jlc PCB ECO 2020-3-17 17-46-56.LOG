@@ -1,0 +1,67 @@
+Change Component Footprint: Designator=J1 Old Footprint=CONN-SMD_3P-P2.54_XH2.54-3AB New Footprint=XH2.54-3SMD
+Change Component Footprint: Designator=J7 Old Footprint=CONN-SMD_3P-P2.54_XH2.54-3AB New Footprint=XH2.54-3SMD
+Change Component Footprint: Designator=J8 Old Footprint=CONN-SMD_3P-P2.54_XH2.54-3AB New Footprint=XH2.54-3SMD
+Added Component: Designator=U5(VSON-8)
+Add component (AddParameter): Name = "Alternate_PartNumber"; Value = "TPS73512DRBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application_BuildNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DRB0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS73512DRBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIN_COUNT"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=U6(VSON-8)
+Add component (AddParameter): Name = "Alternate_PartNumber"; Value = "TPS73512DRBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application_BuildNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DRB0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS73512DRBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIN_COUNT"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=U8(TSSOP-8EP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "UCC27524DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcore Pin=U5-1
+Added Pin To Net: NetName=DGND Pin=U5-2
+Added Pin To Net: NetName=NetC37_2 Pin=U5-3
+Added Pin To Net: NetName=DGND Pin=U5-4
+Added Pin To Net: NetName=Vadj Pin=U5-5
+Added Pin To Net: NetName=DGND Pin=U5-6
+Added Pin To Net: NetName=DGND Pin=U5-7
+Added Pin To Net: NetName=Vadj Pin=U5-8
+Added Pin To Net: NetName=DGND Pin=U5-9
+Added Pin To Net: NetName=Vper Pin=U6-1
+Added Pin To Net: NetName=DGND Pin=U6-2
+Added Pin To Net: NetName=NetC38_2 Pin=U6-3
+Added Pin To Net: NetName=DGND Pin=U6-4
+Added Pin To Net: NetName=CR Pin=U6-5
+Added Pin To Net: NetName=DGND Pin=U6-6
+Added Pin To Net: NetName=DGND Pin=U6-7
+Added Pin To Net: NetName=Vadj Pin=U6-8
+Added Pin To Net: NetName=DGND Pin=U6-9
+Added Pin To Net: NetName=NetSW2_2 Pin=U8-1
+Added Pin To Net: NetName=L Pin=U8-2
+Added Pin To Net: NetName=BGND Pin=U8-3
+Added Pin To Net: NetName=R Pin=U8-4
+Added Pin To Net: NetName=NetR57_2 Pin=U8-5
+Added Pin To Net: NetName=Vbat Pin=U8-6
+Added Pin To Net: NetName=NetR55_2 Pin=U8-7
+Added Pin To Net: NetName=NetSW2_2 Pin=U8-8
+Added Member To Class: ClassName=U_power Member=Component U5 3.3V
+Added Member To Class: ClassName=U_power Member=Component U6 3.3V
+Added Member To Class: ClassName=U_driver Member=Component U8 (U3) UCC27524D

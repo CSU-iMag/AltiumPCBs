@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [iMag1_0.PrjPcb]
+   Generated File[jlc-Plated.TXT]
+   Generated File[jlc-RectHoles-Plated.TXT]
+   Generated File[jlc.LDP]
+   Generated File[jlc.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:50:06 On 2020/3/22

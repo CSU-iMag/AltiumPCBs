@@ -1,0 +1,9 @@
+Added Component: Designator=J18(OLED 0.96)
+Added Pin To Net: NetName=DGND Pin=J18-1
+Added Pin To Net: NetName=Vper Pin=J18-2
+Added Pin To Net: NetName=AD_B0_02 Pin=J18-3
+Added Pin To Net: NetName=AD_B0_01 Pin=J18-4
+Added Pin To Net: NetName=RES Pin=J18-5
+Added Pin To Net: NetName=AD_B0_03 Pin=J18-6
+Added Pin To Net: NetName=AD_B0_00 Pin=J18-7
+Added Member To Class: ClassName=U_interface Member=Component J18 0.96OLED

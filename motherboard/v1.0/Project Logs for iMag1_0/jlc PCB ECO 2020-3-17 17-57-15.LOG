@@ -1,0 +1,4 @@
+Added Component: Designator=L1(L5X5)
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Member To Class: ClassName=U_power Member=Component L1 1.5uH

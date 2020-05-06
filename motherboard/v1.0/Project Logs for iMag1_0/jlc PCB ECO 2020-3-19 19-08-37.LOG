@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=AD_B1_13 Pin=SW5-1
+Removed Pin From Net: NetName=AD_B1_13 Pin=SW5-1
+Removed Pin From Net: NetName=AD_B1_12 Pin=SW6-1
+Removed Pin From Net: NetName=AD_B1_12 Pin=SW6-1
+Removed Pin From Net: NetName=B1_05 Pin=SW7-1
+Removed Pin From Net: NetName=B1_05 Pin=SW7-1
+Removed Pin From Net: NetName=INT Pin=U1-10
+Removed Pin From Net: NetName=SCL Pin=U1-11
+Removed Pin From Net: NetName=SD_B1_01 Pin=U1-13
+Removed Pin From Net: NetName=AD_B1_13 Pin=U1-45
+Removed Pin From Net: NetName=AD_B1_12 Pin=U1-46
+Removed Pin From Net: NetName=INT Pin=U10-12
+Added Pin To Net: NetName=AD_B1_12 Pin=SW5-1
+Added Pin To Net: NetName=AD_B1_12 Pin=SW5-1
+Added Pin To Net: NetName=AD_B1_13 Pin=SW6-1
+Added Pin To Net: NetName=AD_B1_13 Pin=SW6-1
+Added Pin To Net: NetName=INT Pin=SW7-1
+Added Pin To Net: NetName=INT Pin=SW7-1
+Added Pin To Net: NetName=AD_B1_12 Pin=U1-10
+Added Pin To Net: NetName=AD_B1_13 Pin=U1-11
+Added Pin To Net: NetName=INT Pin=U1-13
+Added Pin To Net: NetName=SD_B1_01 Pin=U1-45
+Added Pin To Net: NetName=SCL Pin=U1-46
+Added Pin To Net: NetName=B1_05 Pin=U10-12
+Change Net Name : Old Net Name=AD_B1_12 New Net Name=SD_B1_04
+Change Net Name : Old Net Name=AD_B1_13 New Net Name=SD_B1_03
+Change Net Name : Old Net Name=INT New Net Name=SD_B1_01
+Change Net Name : Old Net Name=SCL New Net Name=AD_B1_12
+Change Net Name : Old Net Name=SD_B1_01 New Net Name=AD_B1_13

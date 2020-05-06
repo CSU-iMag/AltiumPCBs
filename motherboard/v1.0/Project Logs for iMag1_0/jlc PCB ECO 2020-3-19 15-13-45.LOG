@@ -1,0 +1,102 @@
+Removed Member From Class: ClassName=U_OPA43771 Member=R10
+Removed Member From Class: ClassName=U_OPA43771 Member=R12
+Removed Member From Class: ClassName=U_OPA43771 Member=R20
+Removed Member From Class: ClassName=U_OPA43771 Member=R21
+Removed Member From Class: ClassName=U_OPA43772 Member=R30
+Removed Member From Class: ClassName=U_OPA43772 Member=R32
+Removed Member From Class: ClassName=U_OPA43772 Member=R40
+Removed Member From Class: ClassName=U_OPA43772 Member=R41
+Added Component: Designator=C57(C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C58(C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=U11(TSSOP-14)
+Added Component: Designator=U12(TSSOP-14)
+Added Pin To Net: NetName=DGND Pin=C57-1
+Added Pin To Net: NetName=Vper Pin=C57-2
+Added Pin To Net: NetName=DGND Pin=C58-1
+Added Pin To Net: NetName=Vper Pin=C58-2
+Added Pin To Net: NetName=DGND Pin=U11-3
+Added Pin To Net: NetName=SCL Pin=U11-4
+Added Pin To Net: NetName=SD_B1_01 Pin=U11-5
+Added Pin To Net: NetName=DGND Pin=U11-6
+Added Pin To Net: NetName=Vper Pin=U11-11
+Added Pin To Net: NetName=Vper Pin=U11-12
+Added Pin To Net: NetName=DGND Pin=U12-3
+Added Pin To Net: NetName=SCL Pin=U12-4
+Added Pin To Net: NetName=SD_B1_01 Pin=U12-5
+Added Pin To Net: NetName=DGND Pin=U12-6
+Added Pin To Net: NetName=DGND Pin=U12-11
+Added Pin To Net: NetName=Vper Pin=U12-12
+Added Pin To Net: NetName=P0B_U_OPA43771 Pin=R23-2
+Added Pin To Net: NetName=P0B_U_OPA43771 Pin=U11-10
+Added Net: Name=P0B_U_OPA43771
+Added Pin To Net: NetName=P0B_U_OPA43772 Pin=R43-2
+Added Pin To Net: NetName=P0B_U_OPA43772 Pin=U12-10
+Added Net: Name=P0B_U_OPA43772
+Added Pin To Net: NetName=P0W_U_OPA43771 Pin=R19-1
+Added Pin To Net: NetName=P0W_U_OPA43771 Pin=U2-13
+Added Pin To Net: NetName=P0W_U_OPA43771 Pin=U11-9
+Added Net: Name=P0W_U_OPA43771
+Added Pin To Net: NetName=P0W_U_OPA43772 Pin=R39-1
+Added Pin To Net: NetName=P0W_U_OPA43772 Pin=U3-13
+Added Pin To Net: NetName=P0W_U_OPA43772 Pin=U12-9
+Added Net: Name=P0W_U_OPA43772
+Added Pin To Net: NetName=P1B_U_OPA43771 Pin=R22-2
+Added Pin To Net: NetName=P1B_U_OPA43771 Pin=U11-7
+Added Net: Name=P1B_U_OPA43771
+Added Pin To Net: NetName=P1B_U_OPA43772 Pin=R42-2
+Added Pin To Net: NetName=P1B_U_OPA43772 Pin=U12-7
+Added Net: Name=P1B_U_OPA43772
+Added Pin To Net: NetName=P1W_U_OPA43771 Pin=R18-1
+Added Pin To Net: NetName=P1W_U_OPA43771 Pin=U2-6
+Added Pin To Net: NetName=P1W_U_OPA43771 Pin=U11-8
+Added Net: Name=P1W_U_OPA43771
+Added Pin To Net: NetName=P1W_U_OPA43772 Pin=R38-1
+Added Pin To Net: NetName=P1W_U_OPA43772 Pin=U3-6
+Added Pin To Net: NetName=P1W_U_OPA43772 Pin=U12-8
+Added Net: Name=P1W_U_OPA43772
+Added Pin To Net: NetName=P2B_U_OPA43771 Pin=R11-2
+Added Pin To Net: NetName=P2B_U_OPA43771 Pin=U11-13
+Added Net: Name=P2B_U_OPA43771
+Added Pin To Net: NetName=P2B_U_OPA43772 Pin=R31-2
+Added Pin To Net: NetName=P2B_U_OPA43772 Pin=U12-13
+Added Net: Name=P2B_U_OPA43772
+Added Pin To Net: NetName=P2W_U_OPA43771 Pin=R8-1
+Added Pin To Net: NetName=P2W_U_OPA43771 Pin=U2-9
+Added Pin To Net: NetName=P2W_U_OPA43771 Pin=U11-14
+Added Net: Name=P2W_U_OPA43771
+Added Pin To Net: NetName=P2W_U_OPA43772 Pin=R28-1
+Added Pin To Net: NetName=P2W_U_OPA43772 Pin=U3-9
+Added Pin To Net: NetName=P2W_U_OPA43772 Pin=U12-14
+Added Net: Name=P2W_U_OPA43772
+Added Pin To Net: NetName=P3B_U_OPA43771 Pin=R13-2
+Added Pin To Net: NetName=P3B_U_OPA43771 Pin=U11-2
+Added Net: Name=P3B_U_OPA43771
+Added Pin To Net: NetName=P3B_U_OPA43772 Pin=R33-2
+Added Pin To Net: NetName=P3B_U_OPA43772 Pin=U12-2
+Added Net: Name=P3B_U_OPA43772
+Added Pin To Net: NetName=P3W_U_OPA43771 Pin=R9-1
+Added Pin To Net: NetName=P3W_U_OPA43771 Pin=U2-2
+Added Pin To Net: NetName=P3W_U_OPA43771 Pin=U11-1
+Added Net: Name=P3W_U_OPA43771
+Added Pin To Net: NetName=P3W_U_OPA43772 Pin=R29-1
+Added Pin To Net: NetName=P3W_U_OPA43772 Pin=U3-2
+Added Pin To Net: NetName=P3W_U_OPA43772 Pin=U12-1
+Added Net: Name=P3W_U_OPA43772
+Added Member To Class: ClassName=U_OPA43771 Member=Component C57 (C9) 104
+Added Member To Class: ClassName=U_OPA43772 Member=Component C58 (C9) 104
+Added Member To Class: ClassName=U_OPA43771 Member=Component U11 (U2) 103E
+Added Member To Class: ClassName=U_OPA43772 Member=Component U12 (U2) 103E

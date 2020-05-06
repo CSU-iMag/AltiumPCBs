@@ -1,0 +1,5 @@
+Added Component: Designator=J15(2.54≈≈’Î1X3)
+Added Pin To Net: NetName=SD_B1_02 Pin=J15-1
+Added Pin To Net: NetName=Vadj Pin=J15-2
+Added Pin To Net: NetName=PGND Pin=J15-3
+Added Member To Class: ClassName=U_driver Member=Component J15 (J7) SIP-3

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AD_B1_05 Pin=J10-6
+Removed Pin From Net: NetName=AD_B0_15 Pin=U1-28
+Change Net Name : Old Net Name=AD_B0_15 New Net Name=NetC20_2
+Added Pin To Net: NetName=AD_B0_15 Pin=J10-6
+Added Pin To Net: NetName=AD_B0_15 Pin=U1-28
+Added Net: Name=AD_B0_15

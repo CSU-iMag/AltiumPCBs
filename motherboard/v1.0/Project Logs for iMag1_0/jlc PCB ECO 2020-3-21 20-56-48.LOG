@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=AD_B1_08 Pin=J10-2
+Removed Pin From Net: NetName=AD_B1_06 Pin=J10-3
+Removed Pin From Net: NetName=AD_B1_01 Pin=U1-31
+Removed Pin From Net: NetName=AD_B1_03 Pin=U1-33
+Removed Pin From Net: NetName=AD_B1_04 Pin=U1-36
+Removed Pin From Net: NetName=AD_B1_11 Pin=U1-41
+Added Pin To Net: NetName=AD_B1_11 Pin=U1-36
+Change Net Name : Old Net Name=AD_B1_01 New Net Name=NetC13_2
+Change Net Name : Old Net Name=AD_B1_03 New Net Name=NetC12_2
+Change Net Name : Old Net Name=AD_B1_04 New Net Name=NetC17_2
+Change Net Name : Old Net Name=AD_B1_11 New Net Name=AD_B1_04
+Added Pin To Net: NetName=AD_B1_01 Pin=J10-3
+Added Pin To Net: NetName=AD_B1_01 Pin=U1-31
+Added Net: Name=AD_B1_01
+Added Pin To Net: NetName=AD_B1_03 Pin=J10-2
+Added Pin To Net: NetName=AD_B1_03 Pin=U1-33
+Added Net: Name=AD_B1_03
+Added Pin To Net: NetName=AD_B1_11 Pin=U1-41
+Added Net: Name=AD_B1_11

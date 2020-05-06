@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=\TRST Pin=J21-2
+Removed Pin From Net: NetName=AD_B0_09 Pin=J21-3
+Removed Pin From Net: NetName=TMS Pin=J21-4
+Removed Pin From Net: NetName=TCK Pin=J21-5
+Removed Pin From Net: NetName=DGND Pin=J21-6
+Removed Pin From Net: NetName=AD_B0_10 Pin=J21-8
+Removed Pin From Net: NetName=POR_B Pin=J21-9
+Added Pin To Net: NetName=\TRST Pin=J21-3
+Added Pin To Net: NetName=POR_B Pin=J21-4
+Added Pin To Net: NetName=AD_B0_09 Pin=J21-5
+Added Pin To Net: NetName=AD_B0_10 Pin=J21-6
+Added Pin To Net: NetName=TMS Pin=J21-7
+Added Pin To Net: NetName=TCK Pin=J21-9
+Added Pin To Net: NetName=DGND Pin=J21-10

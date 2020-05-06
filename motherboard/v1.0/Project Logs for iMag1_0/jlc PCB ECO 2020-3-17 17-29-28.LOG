@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=U_BEEP Member=D1
+Removed Member From Class: ClassName=U_BEEP Member=R1
+Removed Member From Class: ClassName=U_BEEP Member=R3
+Change Component Designator: OldDesignator=C1 NewDesignator=C56
+Change Component Designator: OldDesignator=D1 NewDesignator=D18
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=R1 NewDesignator=R65
+Change Component Designator: OldDesignator=R2 NewDesignator=R66
+Change Component Designator: OldDesignator=R3 NewDesignator=R67
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ2_1
+Added Member To Class: ClassName=U_BEEP Member=Component D18 (D1) Ð¤ÌØ»ù
+Added Member To Class: ClassName=U_BEEP Member=Component R65 (R1) 10K
+Added Member To Class: ClassName=U_BEEP Member=Component R67 (R3) 10K

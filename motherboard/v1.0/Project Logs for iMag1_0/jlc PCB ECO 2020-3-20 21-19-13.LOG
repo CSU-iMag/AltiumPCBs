@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=P0W_U_OPA43771 Pin=R18-1
+Removed Pin From Net: NetName=P0B_U_OPA43771 Pin=R22-2
+Removed Pin From Net: NetName=P0W_U_OPA43772 Pin=R38-1
+Removed Pin From Net: NetName=P0B_U_OPA43772 Pin=R42-2
+Removed Pin From Net: NetName=P0W_U_OPA43771 Pin=U2-6
+Removed Pin From Net: NetName=P0W_U_OPA43772 Pin=U3-6
+Added Pin To Net: NetName=P0B_U_OPA43771 Pin=R18-1
+Added Pin To Net: NetName=P0W_U_OPA43771 Pin=R22-2
+Added Pin To Net: NetName=P0B_U_OPA43772 Pin=R38-1
+Added Pin To Net: NetName=P0W_U_OPA43772 Pin=R42-2
+Added Pin To Net: NetName=P0B_U_OPA43771 Pin=U2-6
+Added Pin To Net: NetName=P0B_U_OPA43772 Pin=U3-6

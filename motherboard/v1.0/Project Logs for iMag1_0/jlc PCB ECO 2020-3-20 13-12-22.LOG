@@ -1,0 +1,48 @@
+Added Component: Designator=D?1(LED-SMD_L1.7-W0.6-RD)
+Added Component: Designator=D?2(LED-SMD_L1.7-W0.6-RD)
+Added Component: Designator=D?3(LED-SMD_L1.7-W0.6-RD)
+Added Component: Designator=R?1(R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"
+Added Component: Designator=R?2(R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"
+Added Component: Designator=R?3(R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vper Pin=D?1-A
+Added Pin To Net: NetName=Vadj Pin=D?2-A
+Added Pin To Net: NetName=Vbat Pin=D?3-A
+Added Pin To Net: NetName=DGND Pin=R?1-1
+Added Pin To Net: NetName=PGND Pin=R?2-1
+Added Pin To Net: NetName=BGND Pin=R?3-1
+Added Pin To Net: NetName=NetD?1_K Pin=D?1-K
+Added Pin To Net: NetName=NetD?1_K Pin=R?1-2
+Added Net: Name=NetD?1_K
+Added Pin To Net: NetName=NetD?2_K Pin=D?2-K
+Added Pin To Net: NetName=NetD?2_K Pin=R?2-2
+Added Net: Name=NetD?2_K
+Added Pin To Net: NetName=NetD?3_K Pin=D?3-K
+Added Pin To Net: NetName=NetD?3_K Pin=R?3-2
+Added Net: Name=NetD?3_K
+Added Member To Class: ClassName=U_power Member=Component D?1 (D?) LED
+Added Member To Class: ClassName=U_power Member=Component D?2 (D?) LED
+Added Member To Class: ClassName=U_power Member=Component D?3 (D?) LED
+Added Member To Class: ClassName=U_power Member=Component R?1 (R?) 511
+Added Member To Class: ClassName=U_power Member=Component R?2 (R?) 1K
+Added Member To Class: ClassName=U_power Member=Component R?3 (R?) 4.7K

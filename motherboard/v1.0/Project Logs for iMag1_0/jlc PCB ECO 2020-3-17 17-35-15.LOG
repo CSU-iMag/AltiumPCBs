@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=top Member=C56
+Removed Member From Class: ClassName=U_OPA43771 Member=D18
+Removed Member From Class: ClassName=U_driver Member=Q2
+Removed Member From Class: ClassName=top Member=R65
+Removed Member From Class: ClassName=top Member=R66
+Removed Member From Class: ClassName=U_analog Member=R67
+Added Component: Designator=C27(贴片电解 6.3*5.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbat Pin=C27-1
+Added Pin To Net: NetName=BGND Pin=C27-2
+Added Member To Class: ClassName=top Member=Component C1 22uF
+Added Member To Class: ClassName=U_power Member=Component C27 (C14) 100uF,16V
+Added Member To Class: ClassName=U_OPA43771 Member=Component D1 肖特基
+Added Member To Class: ClassName=U_driver Member=Component Q1 SI7234DP-T1-GE3
+Added Member To Class: ClassName=top Member=Component R1 4.7K
+Added Member To Class: ClassName=top Member=Component R2 4.7K
+Added Member To Class: ClassName=U_analog Member=Component R3 (R16) 39K

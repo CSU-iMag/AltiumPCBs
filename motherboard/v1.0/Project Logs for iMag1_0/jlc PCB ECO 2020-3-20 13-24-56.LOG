@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D?3 Old Footprint=LED-SMD_L1.7-W0.6-RD New Footprint=LED 0603B
+Change Component Footprint: Designator=D?2 Old Footprint=LED-SMD_L1.7-W0.6-RD New Footprint=LED 0603G
+Change Component Footprint: Designator=D?1 Old Footprint=LED-SMD_L1.7-W0.6-RD New Footprint=LED 0603Y
+Change Component Designator: OldDesignator=D?1 NewDesignator=D19
+Change Component Designator: OldDesignator=D?2 NewDesignator=D20
+Change Component Designator: OldDesignator=D?3 NewDesignator=D21
+Change Component Designator: OldDesignator=R?1 NewDesignator=R10
+Change Component Designator: OldDesignator=R?2 NewDesignator=R12
+Change Component Designator: OldDesignator=R?3 NewDesignator=R20
+Change Net Name : Old Net Name=NetD?1_K New Net Name=NetD19_K
+Change Net Name : Old Net Name=NetD?2_K New Net Name=NetD20_K
+Change Net Name : Old Net Name=NetD?3_K New Net Name=NetD21_K

@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=C50-2
+Removed Pin From Net: NetName=GND Pin=C51-1
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=B1_13 Pin=J19-3
+Removed Pin From Net: NetName=B1_12 Pin=J19-4
+Removed Pin From Net: NetName=GND Pin=J21-6
+Removed Pin From Net: NetName=AD_B0_13 Pin=R59-1
+Removed Pin From Net: NetName=AD_B0_12 Pin=R60-1
+Removed Pin From Net: NetName=GND Pin=U10-1
+Removed Pin From Net: NetName=GND Pin=U10-9
+Removed Pin From Net: NetName=GND Pin=U10-18
+Removed Pin From Net: NetName=GND Pin=U10-25
+Removed Member From Class: ClassName=top Member=J4
+Added Pin To Net: NetName=AD_B0_12 Pin=J19-3
+Added Pin To Net: NetName=AD_B0_13 Pin=J19-4
+Added Pin To Net: NetName=B1_12 Pin=R59-1
+Added Pin To Net: NetName=B1_13 Pin=R60-1
+Change Net Name : Old Net Name=GND New Net Name=DGND
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-18
+Added Pin To Net: NetName=GND Pin=U10-25
+Added Net: Name=GND
+Added Member To Class: ClassName=U_interface Member=Component J4 PIN-10

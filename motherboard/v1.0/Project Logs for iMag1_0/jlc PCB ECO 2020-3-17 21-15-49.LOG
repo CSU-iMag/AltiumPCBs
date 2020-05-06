@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=J12 Old Footprint=18650x2 New Footprint=18650x2
+Change Physical Footprint: Designator=J18 Old Footprint=OLED 0.96 New Footprint=OLED 0.96
+Change Physical Footprint: Designator=Q1 Old Footprint=DFN-8EP2 New Footprint=DFN-8EP2
+Change Physical Footprint: Designator=U1 Old Footprint=MIMXRT1064xVL_CoreBoard New Footprint=MIMXRT1064xVL_CoreBoard

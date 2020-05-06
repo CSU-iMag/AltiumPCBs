@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=C56 NewDesignator=C1
+Change Component Designator: OldDesignator=D18 NewDesignator=D1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R65 NewDesignator=R1
+Change Component Designator: OldDesignator=R66 NewDesignator=R2
+Change Component Designator: OldDesignator=R67 NewDesignator=R3
+Added Component: Designator=U9(HC-05)
+Added Pin To Net: NetName=B1_13 Pin=U9-1
+Added Pin To Net: NetName=B1_12 Pin=U9-2
+Added Pin To Net: NetName=Vper Pin=U9-12
+Added Pin To Net: NetName=NetR61_2 Pin=U9-24
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ1_1
+Added Member To Class: ClassName=U_HC-05 Member=Component U9 (U1) HC-06
