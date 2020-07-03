@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=ANALOG Member=AIN1
+Removed Member From Class: ClassName=ANALOG Member=AIN2
+Removed Member From Class: ClassName=ANALOG Member=AIN3
+Removed Member From Class: ClassName=ANALOG Member=AIN4
+Removed Member From Class: ClassName=ANALOG Member=AIN5
+Removed Member From Class: ClassName=ANALOG Member=AIN6
+Removed Member From Class: ClassName=ANALOG Member=AIN7
+Removed Member From Class: ClassName=ANALOG Member=AIN8
+Added Component: Designator=J17(2.0≈≈’Î4P)
+Added Component: Designator=J18(PH2.0-2P)
+Added Component: Designator=J19(PH2.0-2P)
+Added Pin To Net: NetName=AGND Pin=J17-4
+Added Pin To Net: NetName=AGND Pin=J18-2
+Added Pin To Net: NetName=AGND Pin=J19-2
+Change Net Name : Old Net Name=AIN4 New Net Name=S4
+Change Net Name : Old Net Name=AIN5 New Net Name=S5
+Change Net Name : Old Net Name=AIN6 New Net Name=S6
+Change Net Name : Old Net Name=AIN7 New Net Name=S7
+Change Net Name : Old Net Name=AIN8 New Net Name=S8
+Change Net Name : Old Net Name=NetR1.9_2 New Net Name=H3
+Change Net Name : Old Net Name=NetR12.9_2 New Net Name=H4
+Added Pin To Net: NetName=H1 Pin=J17-1
+Added Pin To Net: NetName=H1 Pin=R2.9-2
+Added Net: Name=H1
+Added Pin To Net: NetName=H2 Pin=J17-2
+Added Pin To Net: NetName=H2 Pin=R11.9-2
+Added Net: Name=H2
+Added Pin To Net: NetName=S1 Pin=C36-1
+Added Pin To Net: NetName=S1 Pin=J17-3
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=C40-1
+Added Pin To Net: NetName=S2 Pin=J18-1
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=C45-1
+Added Pin To Net: NetName=S3 Pin=J19-1
+Added Net: Name=S3
+Added Member To Class: ClassName=U_slave Member=Component J17 SIP-6
+Added Member To Class: ClassName=U_slave Member=Component J18 SIP-3
+Added Member To Class: ClassName=U_slave Member=Component J19 SIP-3
+Added Member To Class: ClassName=ANALOG Member=Wire S1
+Added Member To Class: ClassName=ANALOG Member=Wire S2
+Added Member To Class: ClassName=ANALOG Member=Wire S3
+Added Member To Class: ClassName=ANALOG Member=Wire S4
+Added Member To Class: ClassName=ANALOG Member=Wire S5
+Added Member To Class: ClassName=ANALOG Member=Wire S6
+Added Member To Class: ClassName=ANALOG Member=Wire S7
+Added Member To Class: ClassName=ANALOG Member=Wire S8

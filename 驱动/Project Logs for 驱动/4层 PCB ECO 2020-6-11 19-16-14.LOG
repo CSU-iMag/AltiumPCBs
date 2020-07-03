@@ -1,0 +1,12 @@
+Added Component: Designator=J1(MOTOR)
+Added Component: Designator=J2(MOTOR)
+Added Component: Designator=J5(MOTOR)
+Added Component: Designator=J6(MOTOR)
+Added Pin To Net: NetName=LSH2 Pin=J1-1
+Added Pin To Net: NetName=LSH1 Pin=J2-1
+Added Pin To Net: NetName=RSH2 Pin=J5-1
+Added Pin To Net: NetName=RSH1 Pin=J6-1
+Added Member To Class: ClassName=原理图 Member=Component J1 2mm灯笼香蕉头
+Added Member To Class: ClassName=原理图 Member=Component J2 2mm灯笼香蕉头
+Added Member To Class: ClassName=原理图 Member=Component J5 2mm灯笼香蕉头
+Added Member To Class: ClassName=原理图 Member=Component J6 2mm灯笼香蕉头

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TDO Pin=R2.8-2
+Removed Pin From Net: NetName=\RST Pin=R3.8-2
+Removed Pin From Net: NetName=TDO Pin=U2-52
+Added Pin To Net: NetName=TDO Pin=J1.8-6
+Added Pin To Net: NetName=\TRST Pin=R1.8-3
+Added Pin To Net: NetName=TDO Pin=R2.8-1
+Added Pin To Net: NetName=NetR2.8_2 Pin=R2.8-2
+Added Net: Name=NetR2.8_2
+Added Pin To Net: NetName=NetR3.8_2 Pin=R3.8-2
+Added Net: Name=NetR3.8_2

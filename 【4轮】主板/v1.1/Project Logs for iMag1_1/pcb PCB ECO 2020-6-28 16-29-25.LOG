@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=S1 Pin=C36-1
+Removed Pin From Net: NetName=S2 Pin=C40-1
+Removed Pin From Net: NetName=S3 Pin=C45-1
+Removed Member From Class: ClassName=ANALOG Member=S1
+Removed Member From Class: ClassName=ANALOG Member=S2
+Removed Member From Class: ClassName=ANALOG Member=S3
+Removed Member From Class: ClassName=ANALOG Member=S4
+Removed Member From Class: ClassName=ANALOG Member=S5
+Removed Member From Class: ClassName=ANALOG Member=S6
+Removed Member From Class: ClassName=ANALOG Member=S7
+Removed Member From Class: ClassName=ANALOG Member=S8
+Change Net Name : Old Net Name=S4 New Net Name=NetC49_1
+Change Net Name : Old Net Name=S5 New Net Name=NetC37_1
+Change Net Name : Old Net Name=S6 New Net Name=NetC41_1
+Change Net Name : Old Net Name=S7 New Net Name=NetC44_1
+Change Net Name : Old Net Name=S8 New Net Name=NetC48_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Net: Name=NetC45_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC36_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC37_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC40_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC41_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC44_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC45_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC48_1
+Added Member To Class: ClassName=ANALOG Member=Wire NetC49_1

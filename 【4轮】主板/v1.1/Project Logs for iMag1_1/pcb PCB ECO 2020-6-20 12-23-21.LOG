@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=POW Member=GND
+Added Class: Name=ANALOG
+Added Class: Name=GND
+Added Member To Class: ClassName=POW Member=Wire BAT
+Added Member To Class: ClassName=POW Member=Wire Vadj
+Added Member To Class: ClassName=POW Member=Wire VCC
+Added Member To Class: ClassName=POW Member=Wire VDDA
+Added Member To Class: ClassName=POW Member=Wire Vm

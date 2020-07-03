@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TCK Pin=J3-2
+Removed Pin From Net: NetName=TMS Pin=J3-3
+Added Pin To Net: NetName=PTA0 Pin=J3-2
+Added Pin To Net: NetName=PTA3 Pin=J3-3
+Added Pin To Net: NetName=TMS Pin=U10-4
+Added Pin To Net: NetName=TCK Pin=U10-5
+Added Pin To Net: NetName=TMS Pin=U11-4
+Added Pin To Net: NetName=TCK Pin=U11-5
+Change Net Name : Old Net Name=TCK New Net Name=SDA
+Change Net Name : Old Net Name=TMS New Net Name=SCL

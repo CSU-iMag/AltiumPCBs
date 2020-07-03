@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [2层.PrjPcb]
+   Generated File[打样-RoundHoles-Plated.TXT]
+   Generated File[打样-SlotHoles-Plated.TXT]
+   Generated File[打样.LDP]
+   Generated File[打样.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:05:16 On 2020/7/1

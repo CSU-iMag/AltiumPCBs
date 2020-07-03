@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=HS Member=IIC_SCL
+Added Pin To Net: NetName=AD_B1_00 Pin=R47-2
+Added Pin To Net: NetName=AD_B1_01 Pin=R48-2
+Added Pin To Net: NetName=AD_B1_00 Pin=U2.9-4
+Added Pin To Net: NetName=AD_B1_01 Pin=U2.9-5
+Added Member To Class: ClassName=HS Member=Wire AD_B1_00
+Added Member To Class: ClassName=HS Member=Wire AD_B1_01

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC4.9_2 Pin=U2-35
+Added Pin To Net: NetName=NetC7.9_2 Pin=U2-36
+Change Net Name : Old Net Name=NetC4.9_2 New Net Name=SE22
+Change Net Name : Old Net Name=NetC7.9_2 New Net Name=SE16

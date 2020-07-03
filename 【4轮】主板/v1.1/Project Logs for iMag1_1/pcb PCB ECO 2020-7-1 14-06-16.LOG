@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=ANALOG Member=NetC42_2
+Removed Member From Class: ClassName=ANALOG Member=NetC46_2
+Removed Member From Class: ClassName=ANALOG Member=NetC50_2
+Removed Member From Class: ClassName=ANALOG Member=NetC51_2
+Added Pin To Net: NetName=SE8 Pin=C42-2
+Added Pin To Net: NetName=SE9 Pin=C46-2
+Added Pin To Net: NetName=SE12 Pin=C50-2
+Added Pin To Net: NetName=SE17 Pin=C51-2
+Added Pin To Net: NetName=SE8 Pin=R29-1
+Added Pin To Net: NetName=SE9 Pin=R35-1
+Added Pin To Net: NetName=SE12 Pin=R41-1
+Added Pin To Net: NetName=SE17 Pin=R42-1
+Added Pin To Net: NetName=NetC8.9_2 Pin=U2-84
+Change Net Name : Old Net Name=NetC8.9_2 New Net Name=SE13
+Added Member To Class: ClassName=ANALOG Member=Wire SE8
+Added Member To Class: ClassName=ANALOG Member=Wire SE9
+Added Member To Class: ClassName=ANALOG Member=Wire SE12
+Added Member To Class: ClassName=ANALOG Member=Wire SE17

@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=ANALOG Member=NetC38_2
+Removed Member From Class: ClassName=ANALOG Member=NetC39_2
+Removed Member From Class: ClassName=ANALOG Member=NetC43_2
+Added Pin To Net: NetName=SE11 Pin=C38-2
+Added Pin To Net: NetName=SE18 Pin=C39-2
+Added Pin To Net: NetName=SE10 Pin=C43-2
+Added Pin To Net: NetName=SE11 Pin=R23-1
+Added Pin To Net: NetName=SE18 Pin=R24-1
+Added Pin To Net: NetName=SE10 Pin=R30-1
+Added Member To Class: ClassName=ANALOG Member=Wire SE10
+Added Member To Class: ClassName=ANALOG Member=Wire SE11
+Added Member To Class: ClassName=ANALOG Member=Wire SE18

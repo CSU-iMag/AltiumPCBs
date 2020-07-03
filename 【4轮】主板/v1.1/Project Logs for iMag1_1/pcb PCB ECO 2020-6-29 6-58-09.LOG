@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=HS Member=SDA
+Change Component Comment : Designator=R17 Old Comment=1K New Comment=NC
+Change Net Name : Old Net Name=SDA New Net Name=NetU2.9_5

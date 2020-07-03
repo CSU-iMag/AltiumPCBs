@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=TCK Pin=J3-2
+Removed Pin From Net: NetName=TMS Pin=J3-3
+Added Pin To Net: NetName=\RST Pin=R3.8-2
+Change Net Name : Old Net Name=\RST New Net Name=RESET_b
+Change Net Name : Old Net Name=TCK New Net Name=PTA0
+Change Net Name : Old Net Name=TDI New Net Name=PTA1
+Change Net Name : Old Net Name=TMS New Net Name=PTA3
+Added Pin To Net: NetName=\RST Pin=J1.8-4
+Added Pin To Net: NetName=\RST Pin=R3.8-1
+Added Net: Name=\RST
+Added Pin To Net: NetName=PTA2 Pin=R2.8-2
+Added Pin To Net: NetName=PTA2 Pin=U2-52
+Added Net: Name=PTA2
+Added Pin To Net: NetName=TCK Pin=J3-2
+Added Net: Name=TCK
+Added Pin To Net: NetName=TMS Pin=J3-3
+Added Net: Name=TMS

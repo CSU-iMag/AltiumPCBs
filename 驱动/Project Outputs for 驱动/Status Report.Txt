@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Çý¶¯.PrjPcb]
+   Generated File[4²ã.TXT]
+   Generated File[4²ã-RectHoles.TXT]
+   Generated File[4²ã.LDP]
+   Generated File[4²ã.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:42:18 On 2020/6/14

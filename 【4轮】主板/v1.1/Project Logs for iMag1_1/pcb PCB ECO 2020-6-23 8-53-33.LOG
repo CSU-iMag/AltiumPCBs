@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=U_slave Member=C10.9
+Removed Member From Class: ClassName=U_slave Member=C11.9
+Removed Member From Class: ClassName=U_power Member=D1.8
+Change Component Footprint: Designator=L2 Old Footprint=L5X5 New Footprint=L0603
+Added Member To Class: ClassName=U_slave Member=Component C10 104
+Added Member To Class: ClassName=U_slave Member=Component C11 104
+Added Member To Class: ClassName=U_power Member=Component D1 LED

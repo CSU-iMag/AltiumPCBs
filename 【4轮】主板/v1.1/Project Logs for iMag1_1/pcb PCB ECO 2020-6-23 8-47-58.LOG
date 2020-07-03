@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=U_OPA4377 Member=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C10.9
+Change Component Designator: OldDesignator=C11 NewDesignator=C11.9
+Change Component Designator: OldDesignator=D1 NewDesignator=D1.8
+Added Member To Class: ClassName=U_OPA4377 Member=Component C11.9 (C11) 106

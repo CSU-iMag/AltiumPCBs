@@ -1,0 +1,12 @@
+Added Component: Designator=D1(SOD-123)
+Added Component: Designator=L1(L0603)
+Added Component: Designator=L3(L0603)
+Added Pin To Net: NetName=VJ Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VDDA Pin=L1-1
+Added Pin To Net: NetName=NetC13_2 Pin=L1-2
+Added Pin To Net: NetName=AGND Pin=L3-1
+Added Pin To Net: NetName=NetC13_1 Pin=L3-2
+Added Member To Class: ClassName=U_JTAG Member=Component D1 Ð¤ÌØ»ù
+Added Member To Class: ClassName=U_slave Member=Component L1 10uH
+Added Member To Class: ClassName=U_slave Member=Component L3 10uH

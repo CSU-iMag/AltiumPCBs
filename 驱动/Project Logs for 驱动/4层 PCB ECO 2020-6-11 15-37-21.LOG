@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=原理图 Member=C?
+Added Component: Designator=J?(T插)
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=原理图 Member=Component J? Battery
