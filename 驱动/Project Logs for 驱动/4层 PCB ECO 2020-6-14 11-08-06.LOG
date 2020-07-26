@@ -1,8 +1,0 @@
-Added Component: Designator=J4(PH2.0-6P)
-Added Pin To Net: NetName=VCC Pin=J4-1
-Added Pin To Net: NetName=EN Pin=J4-2
-Added Pin To Net: NetName=PH1 Pin=J4-3
-Added Pin To Net: NetName=GND Pin=J4-4
-Added Pin To Net: NetName=PH2 Pin=J4-5
-Added Pin To Net: NetName=DVDD2 Pin=J4-6
-Added Member To Class: ClassName=‘≠¿ÌÕº Member=Component J4 SIP-6
